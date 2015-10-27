@@ -33,8 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gddlkj.projects.changanoaiphone
-</string>
+				<string>com.gddlkj.projects.changanoaiphone</string>
 				<key>bundle-version</key>
 				<string>1.081</string>
 				<key>kind</key>
